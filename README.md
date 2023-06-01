@@ -27,7 +27,7 @@ to be added :
 
 # How To Download
 
-If you are not familiar with downloading from Github, click this link to view the releases for this soundfont : https://github.com/Softy107/Repository-test/releases
+If you are not familiar with downloading from Github, click this link to view the releases for this soundfont : https://github.com/Softy107/Alesis-Soundfonts/releases
 
 Or follow this arrow : ![image](https://github.com/Softy107/Alesis-Soundfonts/assets/103595729/64130c52-2709-43ae-8e02-0e80511e2863)
 
