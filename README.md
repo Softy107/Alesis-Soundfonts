@@ -31,7 +31,7 @@ If you are not familiar with downloading from Github, click this link to view th
 
 Or follow this arrow : ![image](https://github.com/Softy107/Alesis-Soundfonts/assets/103595729/64130c52-2709-43ae-8e02-0e80511e2863)
 
-Then, find the release you want, and click the present you'd like to download in the assets bellow.
+Then, find the release you want, and click the preset you'd like to download in the assets bellow.
 
 ![image](https://github.com/Softy107/Alesis-Soundfonts/assets/103595729/b8ae5f35-accf-4e0c-98bb-43f818380f93)
 
