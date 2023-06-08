@@ -11,13 +11,13 @@ Currently includes :
 
  - Harpsichord
 
+ - Synth(Experimental)
+
 
 
 to be added : 
 
  - Dwarbar & Church organs
-
- - Synth
 
  - Strings
 
