@@ -11,11 +11,11 @@ Currently includes :
 
  - Harpsichord
 
- - Synth(Experimental)
+ - Synth
 
 
 
-to be added : 
+to be added(in aprox 30 years) : 
 
  - Dwarbar & Church organs
 
@@ -26,6 +26,8 @@ to be added :
  - Clavi
 
 # How To Download
+
+!For Alesis Grand X, please see bellow!
 
 If you are not familiar with downloading from Github, click this link to view the releases for this soundfont : https://github.com/Softy107/Alesis-Soundfonts/releases
 
@@ -53,3 +55,9 @@ Or the download button
 
 Soundfont includes no velocity layers, effects, or anything similar, just pure samples.
 License for samples can be found in the sample fonlder.
+
+#Alesis Grand X
+
+Alesis Grand X is a high quality version of the Grand Piano.sf2 using line-in recorder samples, panning and velocity layers.
+Downloading is simmilar, except samples can be downloaded from the release page.
+
